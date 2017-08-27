@@ -1,0 +1,19 @@
+{
+    "name": "liuyuanxing/swoole_test",
+    "description": "The package of swoole_test",
+    "type": "library",
+    "license": "MIt",
+    "authors": [
+        {
+            "name": "Yashon",
+            "email": "liuyuanxiang@han-zi.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liuyuanxiang\\Hello\\": "src/"
+        }
+    }
+}
